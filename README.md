@@ -13,3 +13,4 @@ Practical List:
 5. QR Code Integration
 6.No_Google_Captcha
 7.No_Excel_Import_Export
+8.No_RESTAPI_Integration
