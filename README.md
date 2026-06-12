@@ -14,3 +14,4 @@ Practical List:
 6.No_Google_Captcha
 7.No_Excel_Import_Export
 8.No_RESTAPI_Integration
+9.No_Razorpay_Pay_Integration
